@@ -6,10 +6,10 @@ Project using serverless framework with trigger when insert data.
   **aws-sdk**: Valida requisição
 
 ## Instalando serveless framework 
-npm install -g serverless
+ npm install -g serverless
 
 ## Instalando aws e inserindo credenciais 
-https://www.serverless.com/framework/docs/providers/aws/cli-reference/config-credentials/
+ https://www.serverless.com/framework/docs/providers/aws/cli-reference/config-credentials/
 
 ## Rodando a aplicação 
  npm i
@@ -18,5 +18,3 @@ https://www.serverless.com/framework/docs/providers/aws/cli-reference/config-cre
  terminal 1: npm run invoke
  terminal 2: sls logs -f hero-trigger -t
  
-
-  
