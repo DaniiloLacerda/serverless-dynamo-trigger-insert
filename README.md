@@ -12,7 +12,7 @@ aws-sdk: Valida requisição
 https://www.serverless.com/framework/docs/providers/aws/cli-reference/config-credentials/
 
 ## Rodando a aplicação
- npm i sls deploy
+    sls deploy
 
 ### terminal 1: 
     npm run invoke
